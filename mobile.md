@@ -1,9 +1,14 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
 
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
+# <h1>This is an h1 tag</h1>
+## <h2>This is an tag</h2>
+###### <h6> This is an </h6>
+
+
+# h1 text
+## h1 text
+####### h6 text
 
 
 
