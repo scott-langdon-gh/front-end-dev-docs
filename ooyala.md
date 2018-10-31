@@ -1,7 +1,7 @@
 # Ooyala CODE
 
 #### Links & Scripts
-```
+```javascript
 <script src="//player.ooyala.com/static/v4/stable/4.24.9/core.min.js"></script>
 <script src="//player.ooyala.com/static/v4/stable/4.24.9/video-plugin/main_html5.min.js"></script>
 <script src="//player.ooyala.com/static/v4/stable/4.24.9/skin-plugin/html5-skin.min.js"></script>
@@ -9,7 +9,7 @@
 ```
 
 #### Basic Version
-```
+```javascript
 var playerParam = {
 	autoplay: true,
 	pcode: "xvYWgyOgX8LlAER8dMPTua1yO938",
@@ -23,7 +23,7 @@ OO.ready(function() {
 });
 ```
 #### Dynamic Button Pop
-```
+```javascript
 <script>
     var playerParam = {
         autoplay: true,
