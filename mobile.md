@@ -1,7 +1,7 @@
 # OOYALA CODE
 
 ## Basic
-'''
+```
 var playerParam = {
 	autoplay: true,
 	pcode: "xvYWgyOgX8LlAER8dMPTua1yO938",
@@ -13,4 +13,4 @@ var playerParam = {
 OO.ready(function() {
 	window.pp = OO.Player.create( "ooyalaplayer", "g5aHc3ZjE69Y_EVJfMWzsMYPgiCGe3kD", playerParam );
 } );
-'''
+```
