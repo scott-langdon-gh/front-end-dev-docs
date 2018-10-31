@@ -28,7 +28,7 @@
 
 ## Ooyala CODE
 
-### Basic Version
+#### Basic Version
 ```
 var playerParam = {
 	autoplay: true,
