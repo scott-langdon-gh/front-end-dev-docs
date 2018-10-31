@@ -1,7 +1,7 @@
 # Smooth Scroll Code
 
 
-```
+```javascript
 <script type="text/javascript">
 $(document).ready(function(){
     // Add smooth scrolling to all links
