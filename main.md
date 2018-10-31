@@ -26,9 +26,9 @@
 ```
 
 
-## OOYALA CODE
+## Ooyala CODE
 
-### Basic 
+### Basic Version
 ```
 var playerParam = {
 	autoplay: true,
