@@ -1,7 +1,7 @@
 # Cookie Code
 ## Cookie Timer
 
-```
+```javascript
 <script src="js/jquery.cookie.js"></script>
 <script>
     $(document).ready(function() {
