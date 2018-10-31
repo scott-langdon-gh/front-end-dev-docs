@@ -15,8 +15,7 @@
                 $(".buyNowButton").css("display", "block");
 
             }, delay);
-        }
-        else{
+        } else {
             $(".buyNowButton").css("display", "block");
 
         }
