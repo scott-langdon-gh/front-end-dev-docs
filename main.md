@@ -1,6 +1,6 @@
 # GHM Front-End Docs 
 
-## Cookie 
+## Cookie Timer
 
 ```
 <script src="js/jquery.cookie.js"></script>
