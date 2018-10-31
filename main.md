@@ -1,1 +1,1 @@
-# GHM Front-End Documentation 
+# GHM Front-End Docs 
