@@ -1,2 +1,2 @@
 # GHM F/E Docs
-## [Cookie Code](/cookie.md)
+### [Cookie Code](/cookie.md)
