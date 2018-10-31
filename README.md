@@ -5,6 +5,7 @@
 ### [Cookie Code](/cookie.md)
 ### [Ooyala Code](/ooyala.md)
 ### [Order Page](/orderPage.md)
+### [Smooth Scroll](/smoothScroll.md)
 
 ## Other Useful Code
 
