@@ -1,35 +1,4 @@
-# GHM Front-End Docs 
-
-## Cookie Timer
-
-```
-<script src="js/jquery.cookie.js"></script>
-<script>
-    $(document).ready(function() {
-        if(!$.cookie('videoNext')){
-            setTimeout(function(){
-                $.cookie('videoNext', '1', {expires:7, path:'/'});
-            }, 10000);
-            // Price Button Timer: 20min
-            delay = 60000 * 1200;
-            setTimeout(function(){
-                $(".buyNowButton").css("display", "block");
-
-            }, delay);
-        }
-        else{
-            $(".buyNowButton").css("display", "block");
-
-        }
-    })
-</script>
-```
-## Small Pop-up Window Link
-```
-<a style="color: #fff;" href="http://spicefit.com//terms-and-conditions/" target="_blank" onclick="return !window.open(this.href, 'spicefit', 'toolbar=no, scrollbars=yes, resizable=no, status=no, menubar=no, location=no, top=300, left=300, width=400, height=400')">Terms & Conditions</a>
-```
-
-## Ooyala CODE
+# Ooyala CODE
 
 #### Links & Scripts
 ```
