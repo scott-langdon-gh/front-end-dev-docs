@@ -1,4 +1,4 @@
-# Cookie
+# Cookie Code
 ## Cookie Timer
 
 ```
