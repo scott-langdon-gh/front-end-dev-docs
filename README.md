@@ -6,6 +6,7 @@
 ### [Ooyala Code](/ooyala.md)
 ### [Order Page](/orderPage.md)
 ### [Smooth Scroll](/smoothScroll.md)
+### [Redirect](/redirect.md)
 
 ## Other Useful Code
 
