@@ -39,14 +39,11 @@
         if (preg_match('/(tablet|ipad|playbook)|(android(?!.*mobile))/i', $stock_ua)) {
             $tablet_browser++;
         }
-    }
-
-    else if ($mobile_browser > 0) {
-		// do something for mobile devices
-		header("Location: index_m.php");
-    }
-    else {
-
+    } else if ($mobile_browser > 0) {
+	// do something for mobile devices
+	header("Location: index_m.php");
+    } else {
+	// do something for desktop
     }
 ?>
 ```
