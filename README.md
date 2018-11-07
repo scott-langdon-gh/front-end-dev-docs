@@ -7,6 +7,7 @@
 ### [Order Page](/orderPage.md)
 ### [Smooth Scroll](/smoothScroll.md)
 ### [Redirect](/redirect.md)
+### [Mobile Ready](/mobile-ready.md)
 
 ## Other Useful Code
 
