@@ -8,7 +8,7 @@
 ### [Smooth Scroll](/smoothScroll.md)
 ### [Redirect](/redirect.md)
 ### [Mobile Ready](/mobile-ready.md)
-### [Mobile Small Window Link](/small-window.md)
+### [New Window Link](/small-window.md)
 
 ## Other Useful Code
 
