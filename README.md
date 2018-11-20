@@ -9,3 +9,4 @@
 ### [Redirect](/redirect.md)
 ### [Mobile Ready](/mobile-ready.md)
 ### [New Window Link](/small-window.md)
+### [WordPress Code](/wp-code.md)
