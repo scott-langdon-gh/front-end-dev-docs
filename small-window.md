@@ -1,6 +1,6 @@
 ### Opens to new small window
 ```html
-<a style="color: #fff;" href="http://spicefit.com//terms-and-conditions/" target="_blank" onclick="return !window.open(this.href, 'spicefit', 'toolbar=no, scrollbars=yes, resizable=no, status=no, menubar=no, location=no, top=300, left=300, width=400, height=400')">Terms & Conditions</a>
+<a style="color: #fff;" href="" target="_blank" onclick="return !window.open(this.href, '', 'toolbar=no, scrollbars=yes, resizable=no, status=no, menubar=no, location=no, top=300, left=300, width=400, height=400')">TEXT</a>
 ```
 
 ### Opens to new tab
