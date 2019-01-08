@@ -1,5 +1,5 @@
 ```css
-/* Custom, iPhone Retina */ 
+/* Custom, iPhone Retina - XS */ 
 @media only screen and (min-width : 320px) {
 
 }
@@ -9,17 +9,17 @@
 
 }
 
-/* Small Devices, Tablets */
+/* Small Devices, Tablets - SM */
 @media only screen and (min-width : 768px) {
 
 }
 
-/* Medium Devices, Desktops */
+/* Medium Devices, Desktops - MD */
 @media only screen and (min-width : 992px) {
 
 }
 
-/* Large Devices, Wide Screens */
+/* Large Devices, Wide Screens - LG */
 @media only screen and (min-width : 1200px) {
 
 }
