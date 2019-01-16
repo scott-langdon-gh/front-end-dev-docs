@@ -10,3 +10,4 @@
 ### [New Window Link](/small-window.md)
 ### [WordPress Code](/wp-code.md)
 ### [@media query](/media-query.md)
+### [©copyright](/copyright.md)
