@@ -1,3 +1,4 @@
-``html
+#### Copyright
+```html
 &copy; <script language="JavaScript" type="text/javascript"> now = new Date theYear=now.getYear() if (theYear < 1900) theYear=theYear+1900 document.write(theYear) </script>
-``
+```
