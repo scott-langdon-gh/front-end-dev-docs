@@ -2,7 +2,7 @@
 
 
 ### [Cookie Code](/cookie.md)
-### [FAQ-TOGGLE](/FAQ-TOGGLE.md)
+### [FAQ-TOGGLE](/faq-toggle.md)
 ### [Ooyala Code](/ooyala.md)
 ### [Order Page](/orderPage.md)
 ### [Smooth Scroll](/smoothScroll.md)
