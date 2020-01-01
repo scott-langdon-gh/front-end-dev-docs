@@ -1,4 +1,5 @@
 ```css
+/* MEDIA QUERIES */
 /* Custom, iPhone Retina - XS */ 
 @media only screen and (min-width : 320px) {
 
