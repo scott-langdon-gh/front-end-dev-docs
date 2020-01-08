@@ -1,4 +1,27 @@
-```javascript
+```php
+    <?php
+        $file="MGI5purchases.csv";
+        $csv= file_get_contents($file);
+		$array = array_map("str_getcsv", explode("\n", $csv));
+		$purchasesJSON = json_encode($array);
+    ?>
+	<div class="popup-box">
+	    <ul id="purchase-box"></ul>
+    </div>
+	<script>
+		var purchases = <?php echo $purchasesJSON; ?>;
+		console.log(purchases);
+		function iterate(purchases) {
+			for (var i = 0; i < purchases.length; i++) {
+				var ul = document.getElementById("purchase-box")
+				var li = document.createElement("li");
+				li.appendChild(document.createTextNode(purchases[i][0] + " in " + purchases[i][1] + " bought " + purchases[i][2] + " bottle of " + "Bio Complete 3"));
+				ul.appendChild(li);
+			}
+		}
+		iterate(purchases);
+	</script>
+
         var item = $('#purchase-box li');
 		item.hide();
 		
