@@ -1,3 +1,5 @@
+
+
 ```php
     <?php
         $file="MGI5purchases.csv";
@@ -21,7 +23,7 @@
 		}
 		iterate(purchases);
 	</script>
-
+<script>
         var item = $('#purchase-box li');
 		item.hide();
 		
@@ -64,4 +66,5 @@
 		setTimeout(function() {
 			recentlyBought()
 		}, 4000);
+		</script>
 ```
